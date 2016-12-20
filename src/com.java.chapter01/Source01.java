@@ -15,7 +15,7 @@ public class Source01 {
         Button button2=new Button("Don't Like it");
         Panel panel=new Panel();
         panel.add(label);
-
+        System.out.print("wsdsd");
         System.out.print("wsdsd");
     }
 }
