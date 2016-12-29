@@ -31,4 +31,5 @@ public class SimpleDotCom2 {
        return result;
    }
 
+
 }

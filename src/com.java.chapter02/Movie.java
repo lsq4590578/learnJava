@@ -10,5 +10,4 @@ public class Movie {
     public void playIt(){
         System.out.println("Play it");
     }
-
 }

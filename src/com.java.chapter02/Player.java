@@ -9,4 +9,5 @@ public class Player {
         number=(int)(Math.random()*10);
         return number;
     }
+
 }

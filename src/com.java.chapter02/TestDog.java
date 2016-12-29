@@ -11,5 +11,4 @@ public class TestDog
         dog.size=10;
         dog.breed="meat";
     }
-
 }

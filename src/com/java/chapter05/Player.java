@@ -25,3 +25,4 @@ public String getUserGuess(String inputContent) {
     return line;
 }
 }
+
