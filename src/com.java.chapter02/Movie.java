@@ -9,5 +9,6 @@ public class Movie {
     String rating;
     public void playIt(){
         System.out.println("Play it");
+
     }
 }

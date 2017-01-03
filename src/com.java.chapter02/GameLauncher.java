@@ -7,6 +7,7 @@ public class GameLauncher {
     public static void main(String[] agrs) {
 GuessGame gs=new GuessGame();
         gs.startGame();
+
     }
 
     }

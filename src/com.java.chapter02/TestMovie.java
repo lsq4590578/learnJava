@@ -14,6 +14,7 @@ public class TestMovie {
         movietwo.genre="motivationaltwo";
         movietwo.rating="-1";
     }
+
 }
 
 
