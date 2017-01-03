@@ -1,4 +1,4 @@
-package com.java.chapter04;
+package chapter04;
 
 /**
  * Created by joanl on 12/23/2016.

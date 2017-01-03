@@ -1,4 +1,4 @@
-package com.java.chapter04;
+package chapter04;
 
 /***
  * 该代码的作用是，按数字从大到小，然后又从小到大
