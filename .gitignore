@@ -10,3 +10,5 @@
 /.idea/uiDesigner.xml
 .gitignore
 target
+.idea
+read.txt
