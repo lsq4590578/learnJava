@@ -1,4 +1,4 @@
-package com.java.chapter05;
+package com.java.chapter06;
 
 /**
  * Created by joanl on 12/27/2016.
