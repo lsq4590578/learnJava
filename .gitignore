@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+/learnJava.iml
+/.gitignore
+/.idea/workspace.xml
+/.idea/vcs.xml
+/.idea/compiler.xml
+/.idea/copyright
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/uiDesigner.xml
+.gitignore
+target
+.idea
+read.txt
