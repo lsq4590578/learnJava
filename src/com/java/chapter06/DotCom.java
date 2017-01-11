@@ -5,12 +5,13 @@ import java.util.ArrayList;
 /**
  * Created by joanl on 1/3/2017.
  */
-public class DotCom {
+public class DotCom{
     private String dotcomName;
    private ArrayList<String> locationCells;
     public void setLocationCells(ArrayList<String> locs) {
         this.locationCells = locs;
     }
+
 
     int userguessadd=0;
 //        int[] locationcells;int[] locationcells;
