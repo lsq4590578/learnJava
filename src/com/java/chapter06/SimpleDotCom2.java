@@ -1,6 +1,4 @@
-package com.java.chapter05;
-
-import java.io.InputStreamReader;
+package com.java.chapter06;
 
 /**
  * Created by joanl on 12/26/2016.
@@ -17,6 +15,7 @@ public class SimpleDotCom2 {
    String  checkYouself(String usreguess) {
        int userguessnum = Integer.parseInt(usreguess);
        String result = "miss";
+       
        for (int cellws : locationcells) {
            if (userguessnum == cellws) {
                result = "hit";
