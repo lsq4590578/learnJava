@@ -6,12 +6,12 @@ package com.java.chapter04;
 public class Dog {
     private int size;
     private String name;
+
     void bark(){
         if(size>60){
             System.out.println("Ruff! Ruff!");
         }else if(size>14){
             System.out.println("WU! WU!");
-
         }else {
             System.out.println("Wang ! Wang！");
         }
@@ -29,5 +29,6 @@ public void setName(String dogname){
 public String getName(){
     return name;
 }
+
 //
 }
