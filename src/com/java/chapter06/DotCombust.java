@@ -26,10 +26,10 @@ public class DotCombust {
         System.out.println("Go2.com,Pets.com,AskMe.com");
         System.out.println("Try to sink them all in the fewest number of guesses");
         for (DotCom dotcomtoset : companyObjectList) {
+            //指传入一个网址：需要遍历出三个格子
             ArrayList<String> newlocation = gameHelper.placeDotcom(3);
             dotcomtoset.setLocationCells(newlocation);
         }
-
     }
     public void startPlaying(){
         while (!companyObjectList.isEmpty()){
@@ -37,7 +37,6 @@ public class DotCombust {
             checkUserGuess(userguess);
         }
         finishPlaying();
-
     }
         private void checkUserGuess(String userguew){
         numberof++;
